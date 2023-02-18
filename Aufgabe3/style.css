@@ -29,7 +29,7 @@ html{
 }
 
 #button1:hover:after{
-    content: "vorname, nachname, mail";
+    content: "vorname, telefon";
     font-size: 20px;
  }
 
@@ -87,6 +87,6 @@ html{
 }
 
 #button3:hover:after{
-    content: "ort = 'Schorndorf'";
+    content: "nachname = 'Dressel'";
     font-size: 20px;
  }
