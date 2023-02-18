@@ -58,7 +58,7 @@ html{
     content: "FROM";
 }
 
-#button2:active:after{
+#button2:hover:after{
     content: "fahrschueler";
     font-size: 20px;
  }
@@ -87,7 +87,7 @@ html{
     content: "WHERE";
 }
 
-#button3:active:after{
+#button3:hover:after{
     content: "ort = 'Schorndorf'";
     font-size: 20px;
  }
