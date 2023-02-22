@@ -29,7 +29,7 @@ html{
 }
 
 #button1:hover:after{
-    content: "vorname, telefon";
+    content: "Nicht alle Attribute sollen angezeigt werden.";
     font-size: 20px;
  }
 
@@ -58,7 +58,7 @@ html{
 }
 
 #button2:hover:after{
-    content: "fahrschueler";
+    content: "Die Tabelle heißt fahrschueler.";
     font-size: 20px;
  }
 
@@ -87,6 +87,6 @@ html{
 }
 
 #button3:hover:after{
-    content: "nachname = 'Dressel'";
+    content: "Der Nachname soll gleich 'Dressel' sein.";
     font-size: 20px;
  }
