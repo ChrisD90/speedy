@@ -29,7 +29,7 @@ html{
 }
 
 #button1:hover:after{
-    content: "Nicht alle Attribute sollen angezeigt werden.";
+    content: "Nicht alle Attribute (Spalten) sollen angezeigt werden.";
     font-size: 20px;
  }
 
@@ -87,6 +87,6 @@ html{
 }
 
 #button3:hover:after{
-    content: "Der ort soll gleich 'Plüderhausen' sein.";
+    content: "Das Attribut ort soll gleich 'Plüderhausen' sein.";
     font-size: 20px;
  }
